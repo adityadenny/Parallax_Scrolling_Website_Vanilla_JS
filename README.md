@@ -1,0 +1,2 @@
+# Parallax_Scrolling_Website_Vanilla_JS
+create Parallax scrolling website using vanilla JavaScript
