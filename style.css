@@ -24,6 +24,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 10000;
 }
 
 #header .logo {
@@ -31,7 +32,6 @@ body {
     font-weight: 700;
     font-size: 2em;
     text-decoration: none;
-    z-index: 10000;
 }
 
 #header ul {
