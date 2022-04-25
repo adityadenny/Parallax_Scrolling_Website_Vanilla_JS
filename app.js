@@ -18,4 +18,5 @@ window.addEventListener('scroll', function(){
     btn.style.marginTop = value * 1.5 + 'px';
     rocks.style.top = value * -0.10 + 'px';
     forest.style.top = value * 0.25 + 'px'; 
+    header.style.top = value * 0.5 + 'px';
 })
